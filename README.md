@@ -2,8 +2,8 @@
 
 
 # ABU ANAS IBN SAMAD
-# Technopreneur, Researcher and Developer
-# Cybernetics and AI Systems
+ Technopreneur, Researcher and Developer
+ Cybernetics and AI Systems
 
 # OBJECTIVE
 Advancing the human race through peaceful engineering applications of narrow and deep Artificial Intelligence while pushing research efforts towards developing
@@ -21,7 +21,7 @@ Robotics
 Mechanical Engineering
 Embedded Systems Engineering
 
-# COMPUTING FRAMEWORKS I am Fluent to Swim
+# Computing Frameworks I am Fluent to Swim
 Caffe, PyTorch, Tensorflow
 
 # Languages I use to talk to machines
