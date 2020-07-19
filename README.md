@@ -24,7 +24,7 @@ Robotics
 Mechanical Engineering
 Embedded Systems Engineering
 
-# Computing Frameworks I am Fluent to Swim
+# DL Frameworks I am Fluent to Swim
 Caffe, PyTorch, Tensorflow
 
 # Languages I use to talk to machines
