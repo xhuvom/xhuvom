@@ -1,8 +1,4 @@
-<img src="https://www.canva.com/design/DAECczJtohY/view" />
-
-
-
-
+<img src="https://github.com/xhuvom/xhuvom/blob/master/Abu%20anas.png?raw=true">
 # ABU ANAS IBN SAMAD
  Technopreneur, Researcher and Developer :: 
  Specialized in Cybernetics and AI Systems
