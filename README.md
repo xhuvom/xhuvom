@@ -1,6 +1,8 @@
 <img src="https://github.com/xhuvom/xhuvom/blob/master/Abu%20anas.png?raw=true">
-### ABU ANAS IBN SAMAD
- - Technopreneur, Researcher and Developer :: 
+
+### ABU ANAS IBN SAMAD (Shuvom)
+
+ - Technopreneur, Researcher and Developer 
  - Specialized in Cybernetics and AI Systems
  
  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=xhuvom&show_icons=true&theme=radical&theme=synthwave)
