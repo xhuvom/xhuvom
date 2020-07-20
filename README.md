@@ -20,7 +20,7 @@
 - Embedded Systems Engineering
 
 # DL Frameworks I am Fluent to Swim
-Caffe, PyTorch, Tensorflow
+Caffe, PyTorch, Keras
 
 # Languages I use to talk to machines
 C, C++, Python, JS, MATLAB, Lua
