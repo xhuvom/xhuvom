@@ -10,14 +10,14 @@
 
 # SKILLS & EXPERTISE
 
--Artificial Neural Networks
--Computer Vision
--Mechatronics
--Narrow/Deep Machine Learning
--Cybernetics
--Robotics
--Mechanical Engineering
--Embedded Systems Engineering
+- Artificial Neural Networks
+- Computer Vision
+- Mechatronics
+- Narrow/Deep Machine Learning
+- Cybernetics
+- Robotics
+- Mechanical Engineering
+- Embedded Systems Engineering
 
 # DL Frameworks I am Fluent to Swim
 Caffe, PyTorch, Tensorflow
