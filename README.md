@@ -2,7 +2,6 @@
 
 ### ABU ANAS IBN SAMAD (Shuvom)
 
- - Technopreneur, Researcher and Developer 
  - Specialized in Cybernetics and AI Systems
  
  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=xhuvom&show_icons=true&theme=radical&theme=synthwave)
