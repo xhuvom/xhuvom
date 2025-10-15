@@ -22,6 +22,12 @@ Founder & CEO of **[Sigmind.ai](https://sigmind.ai)** — developing award-winni
 
 Currently building **EnlytiX**, a **privacy-first multimodal video analytics platform** built on Vision-Language Models (VLMs).
 
+### 📊 GitHub Analytics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xhuvom&show_icons=true&theme=synthwave&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhuvom&layout=compact&theme=radical)
+
+---
 ---
 
 ### 🚀 Quick Facts
@@ -84,12 +90,7 @@ Currently building **EnlytiX**, a **privacy-first multimodal video analytics pla
 
 ---
 
-### 📊 GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xhuvom&show_icons=true&theme=synthwave&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhuvom&layout=compact&theme=radical)
-
----
 
 ### ⚙️ Objective
 > “Advancing the human race through peaceful engineering applications of narrow and deep Artificial Intelligence — while pushing the frontier toward Artificial General and Super Intelligence.”
