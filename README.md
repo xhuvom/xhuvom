@@ -20,7 +20,7 @@ I'm a **Mechatronics & AI Engineer** specializing in **Cybernetics, Computer Vis
 
 Founder & CEO of **[Sigmind.ai](https://sigmind.ai)** — developing award-winning Vision AI and Edge Analytics solutions for urban safety, transport intelligence, and digital governance.  
 
-Currently expanding to the **UK** with **EnlytiX**, a **privacy-first multimodal video analytics platform** built on Vision-Language Models (VLMs).
+Currently building **EnlytiX**, a **privacy-first multimodal video analytics platform** built on Vision-Language Models (VLMs).
 
 ---
 
