@@ -63,9 +63,9 @@ Currently building **EnlytiX**, a **privacy-first multimodal video analytics pla
 |----------|------|-------------|
 | [**EnlytiX**](https://youtu.be/wu5PbtrCN-g) | Developer | Vision-Language AI Agents for real-time contextual video understanding. |
 | [**TrafficFlow**](https://www.youtube.com/watch?v=ZeNJRglbrXs) | Solution Architect | Edge-based ITS for vehicle detection, classification & analytics. |
-| [**WatchCam AI**](https://sigmind.ai/watchcam-vehicle-analytics-solution/) | Lead AI Engineer | GPU-accelerated embedded vision for vehicles and people analytics. |
-| **ADAMS** | System Architect | Government-funded driver-assistance & monitoring system. |
-| **STOP-COVID** | CV Engineer | AI-powered pandemic monitoring deployed nationwide. |
+| [**WatchCam Video Analytics**](https://sigmind.ai/watchcam-vehicle-analytics-solution/) | Lead AI Engineer | GPU-accelerated embedded vision for vehicles and people analytics. |
+| [**ADAMS**](https://youtu.be/3D1h765GyNU) | System Architect | Government-funded driver-assistance & monitoring system. |
+| [**STOP-COVID**](https://youtu.be/W6Lsq4o-nCM) | CV Engineer | AI-powered pandemic monitoring deployed nationwide. |
 
 ---
 
