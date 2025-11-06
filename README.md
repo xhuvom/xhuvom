@@ -84,9 +84,9 @@ Currently building **EnlytiX**, a **privacy-first multimodal video analytics pla
 ---
 
 ### 🌐 Connect & Collaborate
-- 🔗 [www.sigmind.ai](https://sigmind.ai)  
-- 📧 abushuvom@sigmind.ai  
-- 📍 Dhaka, Bangladesh • Expanding to London, UK  
+- 🔗 [abuanas.sigmind.ai](https://abuanas.sigmind.ai)  
+- 📧 abushuvom@sigmind.ai , abushuvom@gmail.com
+- 📍 Dhaka, Bangladesh  
 
 ---
 
